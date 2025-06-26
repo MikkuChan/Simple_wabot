@@ -1,2 +1,2 @@
 # ♨️ Simple Whatsapp Bot
-```https://github.com/MikkuChan/Simple_wabot.git
+```git clone https://github.com/MikkuChan/Simple_wabot.git && cd Simple_wabot
