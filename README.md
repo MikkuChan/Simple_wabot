@@ -33,7 +33,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan bot:
 3. **Buat File `.env`**
    Buat file bernama `.env` di direktori proyek dan tambahkan nomor owner WhatsApp (dengan kode negara, misalnya `62` untuk Indonesia). Contoh:
    ```env
-   OWNER_NUMBER=6285727035336
+   OWNER_NUMBER=628XXXXXXX
    ```
 
 4. **Jalankan Bot**
