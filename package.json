@@ -1,16 +1,16 @@
 {
   "name": "whatsapp-ping-bot",
   "version": "1.0.0",
-  "description": "Simple WhatsApp bot for ping-pong response",
-  "main": "index.js",
+  "description": "Bot WhatsApp sederhana untuk respon ping-pong",
+  "main": "bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.7",
-    "dotenv": "^16.4.5",
-    "pino": "^9.4.0",
-    "qrcode-terminal": "^0.12.0"
+  "baileys": "latest",
+  "dotenv": "^16.4.5",
+  "pino": "^9.4.0",
+  "qrcode-terminal": "^0.12.0"
   },
   "author": "fadzdigital",
   "license": "MIT"
